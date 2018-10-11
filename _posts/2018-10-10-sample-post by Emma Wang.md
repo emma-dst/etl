@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post by EMMA WANG - DST
+title: Sample post by Emma - DST
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
